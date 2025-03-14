@@ -1,1 +1,0 @@
-# Bazulko-Java-Test-Task-Andersen
